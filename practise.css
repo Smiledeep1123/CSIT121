@@ -1,0 +1,48 @@
+body {
+  background: radial-gradient(#ffff66, #ffcc99);}
+
+
+h1 { background-color: #FF99FF;
+opacity: 0.2;
+font-size: 7em;
+padding: 10px; 
+text-align: center;
+text-shadow: 8px 8px 8px #CCC;}  
+
+.cars {
+float:left;
+height:200px;
+width:300px;
+margin-top:10px;
+margin-left:8px;
+margin-right:5px;
+margin-bottom:5px;
+
+}
+#cars > img {
+height:300px;
+width:250px;
+margin-top:10px;
+margin-bottom:5px;
+margin-left: 8px;
+margin-right:5px;
+float:right;
+}
+#car >img {
+	height: 250px;
+	width: 400px;
+margin-top:10px;
+margin-bottom:5px;
+margin-left: 8px;
+margin-right:5px;
+	float: left;
+}
+ #cars e. >img {
+	height: 300px;
+	width: 400px;
+	float: right;
+margin-top:10px;
+margin-bottom:5px;
+margin-left: 8px;
+margin-right:5px;
+}
