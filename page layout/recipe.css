@@ -1,0 +1,17 @@
+body {background-color: light blue; color:green;text-align:center}
+p{font-family:impact,fantasy;}
+h2{text-transform:uppercase;
+margin-right:auto;
+margin-left:auto;
+width:25%}
+
+h1{margin-left:auto;
+margin-right:auto;
+width:25%}
+
+ul {background-color: #33cc33; width: 80%}
+ol {background-color: #33cc33; width: 80%}
+a:link { color: #ff0000;}
+a:hover { text-decoration: none; color: #000066; }
+a:visited {color: #00FF00;}
+li{position: fixed; position: relative; left: 1px;}
